@@ -26,13 +26,13 @@ Sept 2020<br>
 <p align="center"> 
     <strong>SKILLS & OTHERS</strong>
 </p>
-BI Tool Tableau<br>
-Computer Microsoft Word, Excel, PowerPoint<br>
-Programming Python, Jupyter Notebook, HTML, SQL (learning)<br>
-Data Analysis & Visualization Python (beautifulsoup, scikit-learn, pandas, numpy, matplotlib, seaborn, plotly)<br>
-Language Vietnamese (Fluent)<br>
-Editing Adobe Lightroom, Photoshop<br>
-Word Eligibility US Citizen, no restrictions<br>
+<strong>BI Tool</strong> Tableau<br>
+<strong>Computer</strong> Microsoft Word, Excel, PowerPoint<br>
+<strong>Programming</strong> Python, Jupyter Notebook, HTML, SQL (learning)<br>
+<strong>Data Analysis & Visualization</strong> Python (beautifulsoup, scikit-learn, pandas, numpy, matplotlib, seaborn, plotly)<br>
+<strong>Language</strong> Vietnamese (Fluent)<br>
+<strong>Editing</strong> Adobe Lightroom, Photoshop<br>
+<strong>Word Eligibility</strong> US Citizen, no restrictions<br>
 
 <p align="center"> 
     <strong>PROJECTS</strong>
