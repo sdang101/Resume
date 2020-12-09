@@ -14,10 +14,10 @@ College of Liberal Arts Dec 2019 <br>
 Bachelor of Arts in Economics <br>
 Bachelor of Arts in Linguistics <br>
 Minor: Math <br>
-* University Honors (2015, 2016, Fall 2019)
-* Texas Interdisciplinary Plan (TIP) Scholar (2015 - 2019)
-* TIP Scholar Academic Excellence (2016)
-** Math/Economics Coursework: Applied Statistics, Econometric, Probability, Social Economics, Development and Population, Health Economics
+<li> University Honors (2015, 2016, Fall 2019)</li>
+<li> Texas Interdisciplinary Plan (TIP) Scholar (2015 - 2019)</li>
+<li> TIP Scholar Academic Excellence (2016)</li>
+Math/Economics Coursework: Applied Statistics, Econometric, Probability, Social Economics, Development and Population, Health Economics
 ** Linguistics Coursework: Computational Semantics, Phonology, Phonetics, Historical Linguistics, Syntax/Semantics, Child Language
 **  Other Coursework: Interpersonal Communication, Photographic Communication, Digital Graphic Communication, Acting I
 Certificate of Data Analysis and Visualization<br>
