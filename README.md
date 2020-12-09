@@ -23,7 +23,9 @@ Minor: Math <br>
 Certificate of Data Analysis and Visualization<br>
 Sept 2020<br>
 
-### SKILLS & OTHERS
+<p align="center"> 
+    <strong>SKILLS & OTHERS</strong>
+</p>
 BI Tool Tableau<br>
 Computer Microsoft Word, Excel, PowerPoint<br>
 Programming Python, Jupyter Notebook, HTML, SQL (learning)<br>
@@ -32,7 +34,9 @@ Language Vietnamese (Fluent)<br>
 Editing Adobe Lightroom, Photoshop<br>
 Word Eligibility US Citizen, no restrictions<br>
 
-### PROJECTS
+<p align="center"> 
+    <strong>PROJECTS</strong>
+</p>
 Cardiovascular Disease (CVD) Checker <br>
 Fall 2020 <br>
 https://github.com/adamskel78/SHAX_group_project/tree/master
@@ -51,7 +55,9 @@ McDonaldʼs locations in NYC and Des Moines/
 - Found that Des Moinesʼs McDonaldʼs location is more spread out and less than NYC McDonaldʼs location, thus the bike stations
 in Des Moines will need to be more spread out and less than in NYC
 
-### PROFESSIONAL EXPERIENCE
+<p align="center"> 
+    <strong>PROFESSIONAL EXPERIENCE</strong>
+</p>
 Global Data Specialist <br>
 Whole Foods Market (WFM), Aug 2020 - Present <br> <i>
 - Vetted ~ 50 inventory items weekly in FoodLogiQ, a software that specializes in Supplier Management and Food Safety Compliance, to ensure
@@ -64,7 +70,9 @@ University of Texas Office of Strategy and Policy, Sept 2019 - Feb 2020 <br> <i>
 school Instructors
 - Analyzed behaviors of the new Instructors on the Orientation Modules and found that most Instructors who start the modules finish
 
-### LEADERSHIP
+<p align="center"> 
+    <strong>LEADERSHIP</strong>
+</p>
 Social Outreach Chair
 Texas Photography Club, Mar 2016 - May 2017 <br><i>
 - Coordinated biweekly photoshoots and social events around Austin for 30+ members
