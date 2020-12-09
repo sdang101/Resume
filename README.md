@@ -77,6 +77,7 @@ Social Outreach Chair<br>
 <li>Coordinated biweekly photoshoots and social events around Austin for 30+ members</li>
 <li> Advertised social events and professional events to members through Facebook</li>
 <li> Created and managed “Big Little” program, where three novice photographers are mentored by an experienced photographer</li>
+<p>
 Teaching Assistant <br>
 <i>Hung Vuong Vietnamese School, Aug 2011 - May 2015</i><br>
 <li> Mentored and tutored a class of 30 students on Vietnamese language, history, and culture</li>
