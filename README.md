@@ -13,15 +13,17 @@ The University of Texas at Austin <br>
 College of Liberal Arts Dec 2019 <br>
 Bachelor of Arts in Economics <br>
 Bachelor of Arts in Linguistics <br>
+McCombs School of Business<br>
+<li>Certificate of Data Analysis and Visualization</li><br>
+Sept 2020<br>
 Minor: Math <br>
 <li> University Honors (2015, 2016, Fall 2019)</li>
 <li> Texas Interdisciplinary Plan (TIP) Scholar (2015 - 2019)</li>
 <li> TIP Scholar Academic Excellence (2016)</li>
 Math/Economics Coursework: Applied Statistics, Econometric, Probability, Social Economics, Development and Population, Health Economics
-** Linguistics Coursework: Computational Semantics, Phonology, Phonetics, Historical Linguistics, Syntax/Semantics, Child Language
-**  Other Coursework: Interpersonal Communication, Photographic Communication, Digital Graphic Communication, Acting I
-Certificate of Data Analysis and Visualization<br>
-Sept 2020<br>
+<li> Linguistics Coursework: Computational Semantics, Phonology, Phonetics, Historical Linguistics, Syntax/Semantics, Child Language</li>
+<li> Other Coursework: Interpersonal Communication, Photographic Communication, Digital Graphic Communication, Acting I</li>
+
 
 <p align="center"> 
     <strong>SKILLS & OTHERS</strong>
