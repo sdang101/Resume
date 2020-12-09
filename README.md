@@ -10,6 +10,7 @@ Houston, TX  |  (832) 818-1547 |  shannonmdang@utexas.edu  |  www.linkedin.com/i
     <strong>EDUCATION & HONORS</strong>
 </p>
 The University of Texas at Austin<br>
+<br>
 College of Liberal Arts (Dec 2019)<br>
 Bachelor of Arts in Economics<br>
 Bachelor of Arts in Linguistics<br>
