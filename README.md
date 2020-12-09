@@ -72,7 +72,7 @@ Communications & Events Student Associate <br>
 <p align="center"> 
     <strong>LEADERSHIP</strong>
 </p>
-Social Outreach Chair
+Social Outreach Chair<br>
 <i>Texas Photography Club, Mar 2016 - May 2017</i><br>
 <li>Coordinated biweekly photoshoots and social events around Austin for 30+ members</li>
 <li> Advertised social events and professional events to members through Facebook</li>
