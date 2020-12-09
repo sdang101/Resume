@@ -31,7 +31,7 @@ Editing Adobe Lightroom, Photoshop/
 Word Eligibility US Citizen, no restrictions/
 
 ### PROJECTS
-Cardiovascular Disease (CVD) Checker <b>
+Cardiovascular Disease (CVD) Checker <br>
 Fall 2020 /
 https://github.com/adamskel78/SHAX_group_project/tree/master
 Created a supervised machine learning model that predicts presence of cardiovascular with 73.4% accuracy/
