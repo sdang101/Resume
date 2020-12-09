@@ -7,11 +7,11 @@ Houston, TX  |  (832) 818-1547 |  shannonmdang@utexas.edu  |  www.linkedin.com/i
 </p>
 
 ### EDUCATION AND HONORS
-The University of Texas at Austin , College of Liberal Arts/
-Dec 2019/
-Bachelor of Arts in Economics/
-Bachelor of Arts in Linguistics/
-Minor: Math/
+The University of Texas at Austin , College of Liberal Arts /
+Dec 2019 /
+Bachelor of Arts in Economics /
+Bachelor of Arts in Linguistics /
+Minor: Math /
 - University Honors (2015, 2016, Fall 2019)
 - Texas Interdisciplinary Plan (TIP) Scholar (2015 - 2019)
 - TIP Scholar Academic Excellence (2016)
@@ -31,8 +31,8 @@ Editing Adobe Lightroom, Photoshop/
 Word Eligibility US Citizen, no restrictions/
 
 ### PROJECTS
-Cardiovascular Disease (CVD) Checker/
-Fall 2020/
+Cardiovascular Disease (CVD) Checker <b>
+Fall 2020 /
 https://github.com/adamskel78/SHAX_group_project/tree/master
 Created a supervised machine learning model that predicts presence of cardiovascular with 73.4% accuracy/
 - Engineered BMI and blood pressure categorical features by developing functions that take in the height and weight features for
