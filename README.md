@@ -9,17 +9,17 @@ Houston, TX  |  (832) 818-1547 |  shannonmdang@utexas.edu  |  www.linkedin.com/i
 <p align="center"> 
     <strong>EDUCATION & HONORS</strong>
 </p>
-The University of Texas at Austin , College of Liberal Arts <br>
-Dec 2019 <br>
+The University of Texas at Austin <br>
+College of Liberal Arts Dec 2019 <br>
 Bachelor of Arts in Economics <br>
 Bachelor of Arts in Linguistics <br>
 Minor: Math <br>
-- University Honors (2015, 2016, Fall 2019)
-- Texas Interdisciplinary Plan (TIP) Scholar (2015 - 2019)
-- TIP Scholar Academic Excellence (2016)
--  Math/Economics Coursework: Applied Statistics, Econometric, Probability, Social Economics, Development and Population, Health Economics
--  Linguistics Coursework: Computational Semantics, Phonology, Phonetics, Historical Linguistics, Syntax/Semantics, Child Language
--  Other Coursework: Interpersonal Communication, Photographic Communication, Digital Graphic Communication, Acting I
+* University Honors (2015, 2016, Fall 2019)
+* Texas Interdisciplinary Plan (TIP) Scholar (2015 - 2019)
+* TIP Scholar Academic Excellence (2016)
+** Math/Economics Coursework: Applied Statistics, Econometric, Probability, Social Economics, Development and Population, Health Economics
+** Linguistics Coursework: Computational Semantics, Phonology, Phonetics, Historical Linguistics, Syntax/Semantics, Child Language
+**  Other Coursework: Interpersonal Communication, Photographic Communication, Digital Graphic Communication, Acting I
 Certificate of Data Analysis and Visualization<br>
 Sept 2020<br>
 
