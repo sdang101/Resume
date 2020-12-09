@@ -16,6 +16,7 @@ College of Liberal Arts, Dec 2019<br>
 <p>Minor: Math <br></p>
 McCombs School of Business, Sept 2020<br>
 <p> Certificate of Data Analysis and Visualization</p><br>
+<ul type="square">
 <li> University Honors (2015, 2016, Fall 2019)</li>
 <li> Texas Interdisciplinary Plan (TIP) Scholar (2015 - 2019)</li>
 <li> TIP Scholar Academic Excellence (2016)</li>
@@ -81,5 +82,6 @@ Social Outreach Chair
 - Created and managed “Big Little” program, where three novice photographers are mentored by an experienced photographer
 Teaching Assistant <br>
 Hung Vuong Vietnamese School, Aug 2011 - May 2015</i><br>
-- Mentored and tutored a class of 30 students on Vietnamese language, history, and culture
-- Facilitated communication between students, parents, and teacher to enhance the education of young Vietnamese generations
+<li> Mentored and tutored a class of 30 students on Vietnamese language, history, and culture</li>
+<li>Facilitated communication between students, parents, and teacher to enhance the education of young Vietnamese generations</li>
+</ul>
