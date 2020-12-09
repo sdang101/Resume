@@ -58,12 +58,12 @@ Created a story about the potential of a bike sharing program in Des Moines by c
     <strong>PROFESSIONAL EXPERIENCE</strong>
 </p>
 <p></p>
-Global Data Specialist <br>
+<strong>Global Data Specialist</strong><br>
 <i>Whole Foods Market (WFM), Aug 2020 - Present</i><br> 
 <li>Vetted ~ 50 inventory items weekly in FoodLogiQ, a software that specializes in Supplier Management and Food Safety Compliance, to ensure food safety for consumers</li>
 <li> Created ingredient statements and checked allergens of ~150 in house recipes weekly</li>
 <p></p>
-Communications & Events Student Associate <br>
+<strong>Communications & Events Student Associate</strong><br>
 <i>University of Texas Office of Strategy and Policy, Sept 2019 - Feb 2020</i><br>
 <li> Negotiated prices and reached out to 10+ conference locations around Austin for 2020 OnRamps Summit for 1,200 attendees</li>
 <li> Created and drafted Spring/Summer 2020 Professional Learning Institute registration and information pages using Basic HTML for 1,000 + high school Instructors</li>
@@ -73,13 +73,13 @@ Communications & Events Student Associate <br>
     <strong>LEADERSHIP</strong>
 </p>
 <p></p>
-Social Outreach Chair<br>
+<strong>Social Outreach Chair</strong><br>
 <i>Texas Photography Club, Mar 2016 - May 2017</i><br>
 <li>Coordinated biweekly photoshoots and social events around Austin for 30+ members</li>
 <li> Advertised social events and professional events to members through Facebook</li>
 <li> Created and managed “Big Little” program, where three novice photographers are mentored by an experienced photographer</li>
 <p></p>
-Teaching Assistant <br>
+<strong>Teaching Assistant</strong><br>
 <i>Hung Vuong Vietnamese School, Aug 2011 - May 2015</i><br>
 <li> Mentored and tutored a class of 30 students on Vietnamese language, history, and culture</li>
 <li>Facilitated communication between students, parents, and teacher to enhance the education of young Vietnamese generations</li>
