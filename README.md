@@ -13,7 +13,7 @@ The University of Texas at Austin<br>
 College of Liberal Arts, Dec 2019<br>
 <li> Bachelor of Arts in Economics<br></li>
 <li> Bachelor of Arts in Linguistics<br></li>
-<li>Minor: Math <br><</li>
+<li>Minor: Math <br></li>
 McCombs School of Business, Sept 2020<br>
 <li> Certificate of Data Analysis and Visualization</li><br>
 
