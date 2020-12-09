@@ -49,20 +49,22 @@ BMI, and systolic and diastolic blood pressure features for blood pressure categ
 chart</li>
 <li>Trained 6 supervised machine learning models with the highest training accuracy (73.6%) and testing accuracy (73.4%) yielded
 from the Gradient Boosting Tree</li>
+<p></p>
 Bike Sharing Program in Des Moines, Iowa <br>
 Summer 2020<br>
 https://public.tableau.com/profile/shannon.dang#!/vizhome/bike_15939944330200/DesMoinesCitiBikeProposal?publish=yes
-Created a story about the potential of a bike sharing program in Des Moines by comparing it to NYC Citi Bike Sharing program data and
-McDonaldʼs locations in NYC and Des Moines/
+Created a story about the potential of a bike sharing program in Des Moines by comparing it to NYC Citi Bike Sharing program data and McDonaldʼs locations in NYC and Des Moines<br>
 <li> Found that Des Moinesʼs McDonaldʼs location is more spread out and less than NYC McDonaldʼs location, thus the bike stations in Des Moines will need to be more spread out and less than in NYC </li>
 
 <p align="center"> 
     <strong>PROFESSIONAL EXPERIENCE</strong>
 </p>
+<p></p>
 Global Data Specialist <br>
 <i>Whole Foods Market (WFM), Aug 2020 - Present</i><br> 
 <li>Vetted ~ 50 inventory items weekly in FoodLogiQ, a software that specializes in Supplier Management and Food Safety Compliance, to ensure food safety for consumers</li>
 <li> Created ingredient statements and checked allergens of ~150 in house recipes weekly</li>
+<p></p>
 Communications & Events Student Associate <br>
 <i>University of Texas Office of Strategy and Policy, Sept 2019 - Feb 2020</i><br>
 <li> Negotiated prices and reached out to 10+ conference locations around Austin for 2020 OnRamps Summit for 1,200 attendees</li>
@@ -72,12 +74,13 @@ Communications & Events Student Associate <br>
 <p align="center"> 
     <strong>LEADERSHIP</strong>
 </p>
+<p></p>
 Social Outreach Chair<br>
 <i>Texas Photography Club, Mar 2016 - May 2017</i><br>
 <li>Coordinated biweekly photoshoots and social events around Austin for 30+ members</li>
 <li> Advertised social events and professional events to members through Facebook</li>
 <li> Created and managed “Big Little” program, where three novice photographers are mentored by an experienced photographer</li>
-<p>
+<p></p>
 Teaching Assistant <br>
 <i>Hung Vuong Vietnamese School, Aug 2011 - May 2015</i><br>
 <li> Mentored and tutored a class of 30 students on Vietnamese language, history, and culture</li>
