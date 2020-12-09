@@ -14,7 +14,8 @@ Houston, TX  |  (832) 818-1547 |  shannonmdang@utexas.edu  |  www.linkedin.com/i
 <p>Bachelor of Arts in Economics</p>
 <p>Bachelor of Arts in Linguistics</p>
 <p>Minor: Math</p>
-McCombs School of Business (Sept 2020)<br>
+<br>
+McCombs School of Business (Sept 2020)</br>
 <p>Certificate of Data Analysis and Visualization</p>
 <ul type="square">
 <li> University Honors (2015, 2016, Fall 2019)</li>
