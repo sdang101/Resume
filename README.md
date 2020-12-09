@@ -6,7 +6,7 @@
 Houston, TX  |  (832) 818-1547 |  shannonmdang@utexas.edu  |  www.linkedin.com/in/shannon-dang/ 
 </p>
 
-<p align="center"> 
+<p align="center","bold"> 
     EDUCATION AND HONORS
 </p>
 The University of Texas at Austin , College of Liberal Arts <br>
