@@ -20,9 +20,9 @@ McCombs School of Business (Sept 2020)<br>
 <li> University Honors (2015, 2016, Fall 2019)</li>
 <li> Texas Interdisciplinary Plan (TIP) Scholar (2015 - 2019)</li>
 <li> TIP Scholar Academic Excellence (2016)</li>
-Math/Economics Coursework: Applied Statistics, Econometric, Probability, Social Economics, Development and Population, Health Economics
-<li> Linguistics Coursework: Computational Semantics, Phonology, Phonetics, Historical Linguistics, Syntax/Semantics, Child Language</li>
-<li> Other Coursework: Interpersonal Communication, Photographic Communication, Digital Graphic Communication, Acting I</li>
+<li><strong>Math/Economics Coursework</strong> Applied Statistics, Econometric, Probability, Social Economics, Development and Population, Health Economics</li>
+<li><strong>Linguistics Coursework</strong> Computational Semantics, Phonology, Phonetics, Historical Linguistics, Syntax/Semantics, Child Language</li>
+<li><strong> Other Coursework</strong> Interpersonal Communication, Photographic Communication, Digital Graphic Communication, Acting I</li>
 
 
 <p align="center"> 
