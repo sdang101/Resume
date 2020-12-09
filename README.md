@@ -39,7 +39,7 @@ Math/Economics Coursework: Applied Statistics, Econometric, Probability, Social 
 <p align="center"> 
     <strong>PROJECTS</strong>
 </p>
-Cardiovascular Disease (CVD) Checker (Fall 2020) <br>
+<strong>Cardiovascular Disease (CVD) Checker (Fall 2020)</strong><br>
 https://github.com/adamskel78/SHAX_group_project/tree/master<br>
 <i>Created a supervised machine learning model that predicts presence of cardiovascular with 73.4% accuracy</i><br>
 <li>Engineered BMI and blood pressure categorical features by developing functions that take in the height and weight features for</li>
@@ -49,7 +49,7 @@ chart</li>
 <li>Trained 6 supervised machine learning models with the highest training accuracy (73.6%) and testing accuracy (73.4%) yielded
 from the Gradient Boosting Tree</li>
 <p></p>
-Bike Sharing Program in Des Moines, Iowa (Summer 2020)<br>
+<strong>Bike Sharing Program in Des Moines, Iowa (Summer 2020)</strong><br>
 https://public.tableau.com/profile/shannon.dang#!/vizhome/bike_15939944330200/DesMoinesCitiBikeProposal?publish=yes<br>
 <i>Created a story about the potential of a bike sharing program in Des Moines by comparing it to NYC Citi Bike Sharing program data and McDonaldʼs locations in NYC and Des Moines</i><br>
 <li> Found that Des Moinesʼs McDonaldʼs location is more spread out and less than NYC McDonaldʼs location, thus the bike stations in Des Moines will need to be more spread out and less than in NYC </li>
