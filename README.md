@@ -64,7 +64,7 @@ Global Data Specialist <br>
 <li>Vetted ~ 50 inventory items weekly in FoodLogiQ, a software that specializes in Supplier Management and Food Safety Compliance, to ensure food safety for consumers</li>
 <li> Created ingredient statements and checked allergens of ~150 in house recipes weekly</li>
 Communications & Events Student Associate <br>
-University of Texas Office of Strategy and Policy, Sept 2019 - Feb 2020 <br> <i>
+<i>University of Texas Office of Strategy and Policy, Sept 2019 - Feb 2020</i><br>
 <li> Negotiated prices and reached out to 10+ conference locations around Austin for 2020 OnRamps Summit for 1,200 attendees</li>
 <li> Created and drafted Spring/Summer 2020 Professional Learning Institute registration and information pages using Basic HTML for 1,000 + high school Instructors</li>
 <li>Analyzed behaviors of the new Instructors on the Orientation Modules and found that most Instructors who start the modules finish</li>
@@ -78,7 +78,7 @@ Social Outreach Chair
 <li> Advertised social events and professional events to members through Facebook</li>
 <li> Created and managed “Big Little” program, where three novice photographers are mentored by an experienced photographer</li>
 Teaching Assistant <br>
-Hung Vuong Vietnamese School, Aug 2011 - May 2015</i><br>
+<i>Hung Vuong Vietnamese School, Aug 2011 - May 2015</i><br>
 <li> Mentored and tutored a class of 30 students on Vietnamese language, history, and culture</li>
 <li>Facilitated communication between students, parents, and teacher to enhance the education of young Vietnamese generations</li>
 </ul>
