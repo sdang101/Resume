@@ -11,10 +11,10 @@ Houston, TX  |  (832) 818-1547 |  shannonmdang@utexas.edu  |  www.linkedin.com/i
 </p>
 The University of Texas at Austin<br>
 College of Liberal Arts, Dec 2019<br>
-<li>Bachelor of Arts in Economics</li><br>
-<li>Bachelor of Arts in Linguistics</li><br>
+<li> Bachelor of Arts in Economics</li><br>
+<li> Bachelor of Arts in Linguistics</li><br>
 McCombs School of Business, Sept 2020<br>
-<li>Certificate of Data Analysis and Visualization</li><br>
+<li> Certificate of Data Analysis and Visualization</li><br>
 <br>
 Minor: Math <br>
 <li> University Honors (2015, 2016, Fall 2019)</li>
