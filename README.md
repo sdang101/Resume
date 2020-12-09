@@ -26,7 +26,7 @@ McCombs School of Business (Sept 2020)</br>
 <li><strong>Linguistics Coursework</strong> Computational Semantics, Phonology, Phonetics, Historical Linguistics, Syntax/Semantics, Child Language</li>
 <li><strong> Other Coursework</strong> Interpersonal Communication, Photographic Communication, Digital Graphic Communication, Acting I</li>
 
-
+<p></p>
 <p align="center"> 
     <strong>SKILLS & OTHERS</strong>
 </p>
@@ -37,7 +37,7 @@ McCombs School of Business (Sept 2020)</br>
 <strong>Language</strong> Vietnamese (Fluent)<br>
 <strong>Editing</strong> Adobe Lightroom, Photoshop<br>
 <strong>Word Eligibility</strong> US Citizen, no restrictions<br>
-
+<p></p>
 <p align="center"> 
     <strong>PROJECTS</strong>
 </p>
@@ -55,7 +55,7 @@ from the Gradient Boosting Tree</li>
 https://public.tableau.com/profile/shannon.dang#!/vizhome/bike_15939944330200/DesMoinesCitiBikeProposal?publish=yes<br>
 <i>Created a story about the potential of a bike sharing program in Des Moines by comparing it to NYC Citi Bike Sharing program data and McDonaldʼs locations in NYC and Des Moines</i><br>
 <li> Found that Des Moinesʼs McDonaldʼs location is more spread out and less than NYC McDonaldʼs location, thus the bike stations in Des Moines will need to be more spread out and less than in NYC </li>
-
+<p></p>
 <p align="center"> 
     <strong>PROFESSIONAL EXPERIENCE</strong>
 </p>
@@ -70,7 +70,7 @@ https://public.tableau.com/profile/shannon.dang#!/vizhome/bike_15939944330200/De
 <li> Negotiated prices and reached out to 10+ conference locations around Austin for 2020 OnRamps Summit for 1,200 attendees</li>
 <li> Created and drafted Spring/Summer 2020 Professional Learning Institute registration and information pages using Basic HTML for 1,000 + high school Instructors</li>
 <li>Analyzed behaviors of the new Instructors on the Orientation Modules and found that most Instructors who start the modules finish</li>
-
+<p></p>
 <p align="center"> 
     <strong>LEADERSHIP</strong>
 </p>
