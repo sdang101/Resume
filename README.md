@@ -59,7 +59,7 @@ in Des Moines will need to be more spread out and less than in NYC
     <strong>PROFESSIONAL EXPERIENCE</strong>
 </p>
 Global Data Specialist <br>
-Whole Foods Market (WFM), Aug 2020 - Present</i><br> 
+<i>Whole Foods Market (WFM), Aug 2020 - Present</i><br> 
 - Vetted ~ 50 inventory items weekly in FoodLogiQ, a software that specializes in Supplier Management and Food Safety Compliance, to ensure
 food safety for consumers
 - Created ingredient statements and checked allergens of ~150 in house recipes weekly
@@ -74,7 +74,7 @@ school Instructors
     <strong>LEADERSHIP</strong>
 </p>
 Social Outreach Chair
-Texas Photography Club, Mar 2016 - May 2017</i><br>
+<i>Texas Photography Club, Mar 2016 - May 2017</i><br>
 - Coordinated biweekly photoshoots and social events around Austin for 30+ members
 - Advertised social events and professional events to members through Facebook
 - Created and managed “Big Little” program, where three novice photographers are mentored by an experienced photographer
